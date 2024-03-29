@@ -52,7 +52,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBMakeup",
             url: "None",
-            checksum: "809c64c568c45b7b5c64b9490a187cfc11e0be72671f0f3c47de4c71a846775f"
+            checksum: "22bc1fe585afd7f441cd20a689fa8205206feef88ae0e2c58ee8bf1d99a12ecb"
         ),
         .target(
             name: "BNBMakeup_BNBSdkCore",
