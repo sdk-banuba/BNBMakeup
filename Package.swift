@@ -52,7 +52,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBMakeup",
             url: "https://d2cm7wtcqqw29.cloudfront.net/1.16.3/BNBMakeup.zip",
-            checksum: "f8091102ff871f12f25dca9bc95e1af4582c235ba3db22b4dfb45f3da681987f"
+            checksum: "92fcb9e8c5edfa2b8ad9fcb14e8b693b53537a7993f433ddb811e7ab5374cb51"
         ),
         .target(
             name: "BNBMakeup_BNBSdkCore",
